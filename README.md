@@ -1,6 +1,6 @@
 # vue3.0
 
-## vue3新特性
+## vue3X.0新特性
 ```
 1、下载vue脚手架3：npm i -g @vue/cli
 2、创建项目：vue create project(项目名称)
